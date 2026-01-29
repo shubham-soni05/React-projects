@@ -1,2 +1,3 @@
 # React-projects
-demo for now
+- This Repo will be for my React study / project
+I will Study everyday
